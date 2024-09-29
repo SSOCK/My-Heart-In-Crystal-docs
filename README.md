@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="readme-assets/logo.png" width="100" height="100" />
+  <img src="" width="100" height="100" />
   <h1>SBIM Docs</h1>
   <p>A collection of documentation for Snowball in My heart
 <p>
