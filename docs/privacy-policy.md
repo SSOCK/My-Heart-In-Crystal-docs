@@ -6,43 +6,34 @@ sidebar_position: 2
 
 ## Introduction
 
-Welcome to SBIM! At SBIM, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you use our service.
+Welcome to My Heart In Crystal! At My Heart In Crystal, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you use our service.
 
-## Information We Collect
+## Personal Information Collected
 
-We may collect the following types of personal information from users:
+- **Email address** : Required for message notifications while using the service.
 
-- **Account Information:** When you sign up for SBIM, we may collect your name, email address, and other necessary details to create and manage your account.
-- **Usage Data:** We may collect information about your interactions with our service, such as the pages you visit, the snowballs you make, and your progress within the platform.
-- **Communications:** If you contact us for support or feedback, we may retain records of our communication to assist you and improve our service.
+## Purpose of Collecting Personal Information
 
-## How We Use Your Information
+- To notify users when a message arrives.
 
-We use the collected information for the following purposes:
+## Retention and Use Period of Personal Information
 
-- **Providing and Improving the Service:** We use your information to deliver, maintain, and enhance SBIM, including customizing content and features to better suit your needs.
-- **Communications:** We may use your email address to send you important updates, notifications, or promotional materials related to SBIM.
-- **Customer Support:** Your information helps us respond to your inquiries and support requests effectively.
-- **Analytics:** We may analyze usage data to understand how users interact with SBIM and to improve our service.
+- Collected personal information is retained during the service usage period and will be destroyed immediately after the service is terminated.
 
-## Data Security
+## Provision of Personal Information to Third Parties
 
-We implement industry-standard security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction.
+- Personal information will not be provided to third parties without user consent.
 
-## Data Sharing and Disclosure
+## Rights Related to Personal Information Protection
 
-We do not sell, trade, or rent your personal information to third parties. However, we may share your information with trusted service providers who assist us in operating our service or conducting our business, subject to confidentiality agreements.
+- Users have the right to access, modify, or delete their personal information at any time. Requests regarding personal information can be made via email.
 
-## Your Choices and Rights
+## Right to Refuse Consent
 
-You have the right to access, correct, or delete your personal information stored in SBIM. You can also opt-out of receiving promotional emails from us at any time by following the unsubscribe instructions provided in the email.
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We encourage you to review this page periodically for any updates.
+Users have the right to refuse the collection of personal information. However, this may result in limited access to the service.
 
 ## Contact Us
 
-If you have any questions or concerns about our Privacy Policy or the handling of your personal information, please contact us at [contact@sbim.com](mailto:contact@sbim.com).
+If you have any questions or concerns about our Privacy Policy or the handling of your personal information, please contact us at [contact@ssock.com](mailto:ssock1103@gmail.com).
 
-Last updated: 29/09/2024
+Last updated: 19/10/2024

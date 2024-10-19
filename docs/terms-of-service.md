@@ -6,42 +6,44 @@ sidebar_position: 1
 
 ## Introduction
 
-Welcome to SBIM! These Terms of Service govern your use of SBIM, By accessing or using our service, you agree to comply with these terms.
+Welcome to My Heart In Crystal! These Terms of Service govern your use of My Heart In Crystal, By accessing or using our service, you agree to comply with these terms.
 
-## Use of Service
+## Purpose
 
-temp
+These Terms of Service define the rights, obligations, and responsibilities concerning the use of "My Heart in Crystal" (hereinafter referred to as "the Service").
 
-## User Accounts
+## Service Description
 
-temp
+- The service is a 3D interactive web platform where users can send and receive messages.
+- Users can customize the 3D model of the crystal ball and the decorative 3D models inside the messages.
 
-## Intellectual Property
+## User Obligations
 
-temp
+- Users must provide accurate information when registering and are responsible for protecting their personal information.
+- Users must not use another person’s email address or personal information without authorization.
 
-## Privacy
+## Service Fees
 
-Your privacy is important to us. Please refer to our Privacy Policy for information on how we collect, use, and protect your personal information.
+- The service is provided free of charge.
 
-## Limitation of Liability
+## Termination of Service Contract
 
-To the fullest extent permitted by law, SBIM and its affiliates shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of the service, even if we have been advised of the possibility of such damages.
+- Users may stop using the service at any time, and they can request account deletion through the My Page section.
 
-## Changes to Terms
+## Disclaimer
 
-We reserve the right to modify or update these Terms of Service at any time without prior notice. By continuing to use SBIM after any changes to these terms, you agree to be bound by the revised terms.
+- The company is not responsible for any issues that arise during the use of the service.
 
-## Termination
+## Modification of the Terms
 
-We may suspend or terminate your access to SBIM at any time for any reason, without prior notice or liability.
+- These terms may be changed as necessary, and any changes will be announced within the service.
 
-## Governing Law
+## Governing Law and Jurisdiction
 
-temp
+- In the event of a dispute related to the service, the court with jurisdiction will be determined in accordance with the Civil Procedure Act, and the applicable law will be the laws of the Republic of Korea.
 
 ## Contact Us
 
-If you have any questions or concerns about these Terms of Service, please contact us at [contact@sbim.com](mailto:contact@sbim.com).
+If you have any questions or concerns about these Terms of Service, please contact us at [contact@ssock.com](mailto:ssock1103@gmail.com).
 
-Last updated: 29/09/2024
+Last updated: 19/10/2024
